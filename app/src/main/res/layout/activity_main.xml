@@ -49,8 +49,9 @@
 
         <Spinner
             android:id="@+id/spinnerKelas"
-            android:layout_width="98dp"
-            android:layout_height="wrap_content" />
+            android:layout_width="167dp"
+            android:layout_height="wrap_content"
+            android:entries="@array/kelas" />
 
         <TextView
             android:id="@+id/textViewNama"
